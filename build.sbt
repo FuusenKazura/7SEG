@@ -24,7 +24,7 @@ def javacOptionsVersion(scalaVersion: String): Seq[String] = {
   }
 }
 
-name := "chisel-module-template-lite"
+name := "7SEG"
 
 version := "3.1.+"
 
